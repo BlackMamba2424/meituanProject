@@ -79,7 +79,7 @@ npm run dev
 如果觉得这个项目对你有帮忙，可以请我喝杯奶茶哈
 
 微信：
-
+20210818
 <img src="https://github.com/zwStar/vue-meituan/blob/v2.0/screenshots/weChat.jpg" width="275" alt="微信"/>
 支付宝：
 
